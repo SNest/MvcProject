@@ -4,7 +4,7 @@ using Domain.Entities;
 
 namespace Domain.Repositories.Abstract
 {
-    public interface IFeedbackRepository : IRepository
+    public interface IFeedbackRepository
     {
         Feedback Get(int id);
         IEnumerable<Feedback> Find(Func<Feedback, Boolean> predicate);

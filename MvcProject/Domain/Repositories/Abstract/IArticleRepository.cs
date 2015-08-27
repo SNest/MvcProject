@@ -4,7 +4,7 @@ using Domain.Entities;
 
 namespace Domain.Repositories.Abstract
 {
-    public interface IArticleRepository : IRepository
+    public interface IArticleRepository 
     {
         Article Get(int id);
         IEnumerable<Article> Find(Func<Article, Boolean> predicate);

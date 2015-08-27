@@ -4,7 +4,7 @@ using Domain.Entities;
 
 namespace Domain.Repositories.Abstract
 {
-    public interface IMarkRepository : IRepository
+    public interface IMarkRepository 
     {
         Mark Get(int id);
         IEnumerable<Mark> Find(Func<Mark, Boolean> predicate);

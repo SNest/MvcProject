@@ -14,10 +14,10 @@ namespace Domain.Repositories.Concrete
         private static Logger logger;
         private readonly BlogContext context;
 
-        public EFUserRepository()
+        public EFUserRepository(BlogContext someContext)
         {
+            context = someContext;
             logger = LogManager.GetCurrentClassLogger();
-            context = new BlogContext();
         }
 
         public User Get(int id)
@@ -62,7 +62,6 @@ namespace Domain.Repositories.Concrete
             try
             {
                 context.Entry(instance).State = EntityState.Added;
-                Save();
             }
             catch (Exception exception)
             {
@@ -76,7 +75,6 @@ namespace Domain.Repositories.Concrete
             try
             {
                 context.Entry(instance).State = EntityState.Modified;
-                Save();
             }
             catch (Exception exception)
             {
@@ -90,18 +88,12 @@ namespace Domain.Repositories.Concrete
             try
             {
                 context.Entry(Get(id)).State = EntityState.Deleted;
-                Save();
             }
             catch (Exception exception)
             {
                 logger.Trace(exception.StackTrace);
                 throw;
             }
-        }
-
-        public void Save()
-        {
-            context.SaveChanges();
         }
     }
 }

@@ -9,10 +9,12 @@ namespace BusinessLogic.Infrastructure
 {
     public class NinjectDependencyResolver : IDependencyResolver
     {
-        IKernel kernel;
+        private readonly string connectionString;
+        private readonly IKernel kernel;
 
-        public NinjectDependencyResolver()
+        public NinjectDependencyResolver(string connection)
         {
+            connectionString = connection;
             kernel = new StandardKernel();
             AddBindings();
         }
@@ -27,13 +29,12 @@ namespace BusinessLogic.Infrastructure
             return kernel.GetAll(serviceType);
         }
 
-        void AddBindings()
+        private void AddBindings()
         {
-            kernel.Bind<IArticleRepository>().To<EFArticleRepository>();
-            kernel.Bind<IFeedbackRepository>().To<EFFeedbackRepository>();
-            kernel.Bind<IMarkRepository>().To<EFMarkRepository>();
-            kernel.Bind<IUserRepository>().To<EFUserRepository>();
-
+            kernel.Bind<IArticleRepository>().To<EFArticleRepository>().WithConstructorArgument(connectionString);
+            kernel.Bind<IFeedbackRepository>().To<EFFeedbackRepository>().WithConstructorArgument(connectionString);
+            kernel.Bind<IMarkRepository>().To<EFMarkRepository>().WithConstructorArgument(connectionString);
+            kernel.Bind<IUserRepository>().To<EFUserRepository>().WithConstructorArgument(connectionString);
         }
     }
 }

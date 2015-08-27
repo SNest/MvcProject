@@ -51,6 +51,7 @@
     <Compile Include="Infrastructure\DTOMapper.cs" />
     <Compile Include="Infrastructure\NinjectDependencyResolver.cs" />
     <Compile Include="Infrastructure\ValidationException.cs" />
+    <Compile Include="Managers\Abstract\IManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

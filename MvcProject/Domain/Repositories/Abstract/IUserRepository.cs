@@ -4,7 +4,7 @@ using Domain.Entities;
 
 namespace Domain.Repositories.Abstract
 {
-    public interface IUserRepository : IRepository
+    public interface IUserRepository
     {
         User Get(int id);
         IEnumerable<User> Find(Func<User, Boolean> predicate);

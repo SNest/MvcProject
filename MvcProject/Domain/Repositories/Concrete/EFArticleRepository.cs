@@ -14,17 +14,17 @@ namespace Domain.Repositories.Concrete
         private static Logger logger;
         private readonly BlogContext context;
 
-        public EFArticleRepository()
+        public EFArticleRepository(BlogContext someContext)
         {
+            context = someContext;
             logger = LogManager.GetCurrentClassLogger();
-            context = new BlogContext();
         }
 
         public Article Get(int id)
         {
             try
             {
-                 logger.Error("TEEEEEEEEST!!!!!1");
+                logger.Error("TEEEEEEEEST!!!!!1");
                 return context.Articles.Find(id);
             }
             catch (Exception exception)
@@ -33,6 +33,7 @@ namespace Domain.Repositories.Concrete
                 throw;
             }
         }
+
         public IEnumerable<Article> Find(Func<Article, bool> predicate)
         {
             try
@@ -58,12 +59,12 @@ namespace Domain.Repositories.Concrete
                 throw;
             }
         }
+
         public void Create(Article instance)
         {
             try
             {
                 context.Entry(instance).State = EntityState.Added;
-                Save();
             }
             catch (Exception exception)
             {
@@ -77,7 +78,6 @@ namespace Domain.Repositories.Concrete
             try
             {
                 context.Entry(instance).State = EntityState.Modified;
-                Save();
             }
             catch (Exception exception)
             {
@@ -91,18 +91,12 @@ namespace Domain.Repositories.Concrete
             try
             {
                 context.Entry(Get(id)).State = EntityState.Deleted;
-                Save();
             }
             catch (Exception exception)
             {
                 logger.Trace(exception.StackTrace);
                 throw;
             }
-        }
-
-        public void Save()
-        {
-            context.SaveChanges();
         }
     }
 }

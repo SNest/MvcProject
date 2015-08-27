@@ -140,6 +140,8 @@
     <Compile Include="Helpers\ArticleHelper.cs" />
     <Compile Include="Helpers\FeedbackHelper.cs" />
     <Compile Include="Helpers\TestHelper.cs" />
+    <Compile Include="Models\ArticlePreviewViewModel.cs" />
+    <Compile Include="Models\ArticleDetailViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -242,15 +244,14 @@
     <Folder Include="Areas\Admin\Controllers\" />
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Admin\Views\Shared\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Domain\Domain.csproj">
-      <Project>{95c4e9bb-1a52-4b80-8069-441eda45829e}</Project>
-      <Name>Domain</Name>
+    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+      <Project>{c6a8ba57-73a9-463a-b9c5-1245b3673751}</Project>
+      <Name>BusinessLogic</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

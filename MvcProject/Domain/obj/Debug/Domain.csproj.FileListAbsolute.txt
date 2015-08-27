@@ -33,3 +33,16 @@ G:\MvcProject\Domain\obj\Debug\Domain.pdb
 C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\Domain\bin\Debug\NLog.config
 C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\Domain\bin\Debug\NLog.dll
 C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\Domain\bin\Debug\NLog.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\NLog.config
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\Domain.dll.config
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\Domain.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\Domain.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\NLog.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\bin\Debug\NLog.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\obj\Debug\Domain.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProjectRepo\MvcProject\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,114 @@
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\MvcProject.dll.config
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\MvcProject.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\MvcProject.pdb
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\Antlr3.Runtime.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\EntityFramework.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\Newtonsoft.Json.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Net.Http.Formatting.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Http.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Http.WebHost.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Mvc.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Optimization.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Providers.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Razor.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\WebGrease.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\EntityFramework.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\Newtonsoft.Json.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Net.Http.Formatting.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Http.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Http.WebHost.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Mvc.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.Razor.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.xml
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\obj\Debug\MvcProject.dll
+c:\users\natal\documents\visual studio 2013\Projects\MvcProject\MvcProject\obj\Debug\MvcProject.pdb
+C:\Users\natal\Documents\Visual Studio 2013\Projects\MvcProject\MvcProject\bin\Domain.dll
+C:\Users\natal\Documents\Visual Studio 2013\Projects\MvcProject\MvcProject\bin\Domain.pdb
+C:\Users\natal\Documents\Visual Studio 2013\Projects\MvcProject\MvcProject\bin\EntityFramework.SqlServer.dll
+C:\Users\natal\Documents\Visual Studio 2013\Projects\MvcProject\MvcProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\MvcProject.dll.config
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\MvcProject.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\MvcProject.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\Antlr3.Runtime.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\Domain.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\EntityFramework.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\Newtonsoft.Json.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Net.Http.Formatting.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Http.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Http.WebHost.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Mvc.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Optimization.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Providers.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Razor.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\WebGrease.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\Domain.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\EntityFramework.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\Newtonsoft.Json.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Net.Http.Formatting.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Http.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Http.WebHost.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Mvc.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.Razor.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\obj\Debug\MvcProject.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\obj\Debug\MvcProject.pdb
+G:\MvcProject\MvcProject\obj\Debug\MvcProject.csprojResolveAssemblyReference.cache
+G:\MvcProject\MvcProject\obj\Debug\MvcProject.dll
+G:\MvcProject\MvcProject\bin\NLog.config
+G:\MvcProject\MvcProject\bin\MvcProject.dll.config
+G:\MvcProject\MvcProject\bin\MvcProject.dll
+G:\MvcProject\MvcProject\bin\MvcProject.pdb
+G:\MvcProject\MvcProject\bin\Antlr3.Runtime.dll
+G:\MvcProject\MvcProject\bin\Domain.dll
+G:\MvcProject\MvcProject\bin\EntityFramework.dll
+G:\MvcProject\MvcProject\bin\EntityFramework.SqlServer.dll
+G:\MvcProject\MvcProject\bin\Microsoft.Web.Infrastructure.dll
+G:\MvcProject\MvcProject\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\MvcProject\MvcProject\bin\Newtonsoft.Json.dll
+G:\MvcProject\MvcProject\bin\System.Net.Http.Formatting.dll
+G:\MvcProject\MvcProject\bin\System.Web.Http.dll
+G:\MvcProject\MvcProject\bin\System.Web.Http.WebHost.dll
+G:\MvcProject\MvcProject\bin\System.Web.Mvc.dll
+G:\MvcProject\MvcProject\bin\System.Web.Optimization.dll
+G:\MvcProject\MvcProject\bin\System.Web.Providers.dll
+G:\MvcProject\MvcProject\bin\System.Web.Razor.dll
+G:\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.dll
+G:\MvcProject\MvcProject\bin\System.Web.WebPages.dll
+G:\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.dll
+G:\MvcProject\MvcProject\bin\WebGrease.dll
+G:\MvcProject\MvcProject\bin\NLog.dll
+G:\MvcProject\MvcProject\bin\Domain.pdb
+G:\MvcProject\MvcProject\bin\EntityFramework.xml
+G:\MvcProject\MvcProject\bin\EntityFramework.SqlServer.xml
+G:\MvcProject\MvcProject\bin\Newtonsoft.Json.xml
+G:\MvcProject\MvcProject\bin\System.Net.Http.Formatting.xml
+G:\MvcProject\MvcProject\bin\System.Web.Http.xml
+G:\MvcProject\MvcProject\bin\System.Web.Http.WebHost.xml
+G:\MvcProject\MvcProject\bin\System.Web.Mvc.xml
+G:\MvcProject\MvcProject\bin\System.Web.Razor.xml
+G:\MvcProject\MvcProject\bin\System.Web.WebPages.xml
+G:\MvcProject\MvcProject\bin\System.Web.WebPages.Deployment.xml
+G:\MvcProject\MvcProject\bin\System.Web.WebPages.Razor.xml
+G:\MvcProject\MvcProject\bin\NLog.xml
+G:\MvcProject\MvcProject\obj\Debug\MvcProject.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\NLog.config
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\NLog.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\MvcProject\bin\NLog.xml

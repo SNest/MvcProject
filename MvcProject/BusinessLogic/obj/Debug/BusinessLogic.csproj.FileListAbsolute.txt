@@ -1,0 +1,28 @@
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+G:\MvcProject\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+G:\MvcProject\BusinessLogic\bin\Debug\NLog.config
+G:\MvcProject\BusinessLogic\bin\Debug\BusinessLogic.dll
+G:\MvcProject\BusinessLogic\bin\Debug\BusinessLogic.pdb
+G:\MvcProject\BusinessLogic\bin\Debug\Domain.dll
+G:\MvcProject\BusinessLogic\bin\Debug\Ninject.dll
+G:\MvcProject\BusinessLogic\bin\Debug\EntityFramework.dll
+G:\MvcProject\BusinessLogic\bin\Debug\NLog.dll
+G:\MvcProject\BusinessLogic\bin\Debug\Domain.pdb
+G:\MvcProject\BusinessLogic\bin\Debug\Ninject.xml
+G:\MvcProject\BusinessLogic\bin\Debug\EntityFramework.xml
+G:\MvcProject\BusinessLogic\bin\Debug\NLog.xml
+G:\MvcProject\BusinessLogic\obj\Debug\BusinessLogic.dll
+G:\MvcProject\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\NLog.config
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\Domain.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\Ninject.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\NLog.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\Domain.pdb
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\Ninject.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\bin\Debug\NLog.xml
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Sergey\OneDrive\Development\Visual Studio\Projects\MvcProject\BusinessLogic\obj\Debug\BusinessLogic.pdb

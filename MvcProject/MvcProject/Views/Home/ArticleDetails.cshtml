@@ -1,0 +1,22 @@
+﻿@model Domain.Entities.Article
+
+@{
+    ViewBag.Title = "ArticleDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ArticleDetails</h2>
+
+<fieldset>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+
+   <div class="display-field">
+        @Html.DisplayFor(model => model.Text)
+    </div>
+
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Date)
+    </div>
+</fieldset>

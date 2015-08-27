@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "CreateFeedback";
+}
+
+<h2>CreateFeedback</h2>
+
+@section Menu{
+    @Html.Partial("_Menu")
+}
+
+@using (Html.BeginForm("CreateFeedback", "Guest", FormMethod.Post))
+{
+    <div>
+        @Html.Label("Your feedback:")
+    </div>
+    <div>
+        @Html.TextArea("text")
+    </div>
+    <div>
+        @Html.TextBox("author")
+    </div>
+    <div>
+        <input type="submit" name="submit" value="submit">
+    </div>
+}

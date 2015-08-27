@@ -1,0 +1,15 @@
+﻿@{
+    ViewBag.Title = "Guest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Guest</h2>
+
+@section Menu{
+    <h3>Menu</h3>
+    @Html.ActionLink("New feedback", "CreateFeedback", "Guest")
+}
+
+
+
+@((object) Html.FeedbackFor((List<Feedback>)ViewBag.Feedbacks, ""))    

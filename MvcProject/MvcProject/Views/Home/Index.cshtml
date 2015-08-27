@@ -1,0 +1,20 @@
+﻿@using Domain.Entities
+@using MvcProject.Helpers
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Home</h2>
+
+@section Menu{
+    @Html.ActionLink("Add new article", "CreateArticle", "Home")
+    @Html.ArticleMenuFor((List<Article>)ViewBag.Articles, "")
+}
+
+@Html.ArticleFor((List<Article>)ViewBag.Articles, "")
+
+
+
+
+
